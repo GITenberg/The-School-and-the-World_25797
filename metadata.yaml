@@ -1,0 +1,33 @@
+_repo: The-School-and-the-World_25797
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Somervell, D. C. (David Churchill)
+    alias: Somervell, David Churchill
+    birthdate: 1885
+    deathdate: 1965
+    gutenberg_agent_id: '31583'
+    url: http://www.gutenberg.org/2009/agents/31583
+  - agent_name: Gollancz, Victor
+    birthdate: 1893
+    deathdate: 1967
+    gutenberg_agent_id: '31582'
+    url: http://www.gutenberg.org/2009/agents/31582
+description: ''
+gutenberg_issued: '2008-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science -- Study and teaching'
+- !lcc 'LC'
+- !lcsh 'Endowed public schools (Great Britain)'
+title: The School and the World
+url: http://www.gutenberg.org/ebooks/25797
